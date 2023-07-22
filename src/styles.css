@@ -95,6 +95,9 @@ iframe {
   font-style: italic;
   opacity: 0.6;
 }
+.tooltiptext {
+  line-height: 2px;
+}
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 120px;
